@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-name="COUNTRIES"/>
+  <table-filter match-name="DEPARTMENTS"/>
+  <table-filter match-name="EMPLOYEES"/>
+  <table-filter match-name="EMP_DETAILS_VIEW"/>
+  <table-filter match-name="JOBS"/>
+  <table-filter match-name="JOB_HISTORY"/>
+  <table-filter match-name="LOCATIONS"/>
+  <table-filter match-name="REGIONS"/>
+</hibernate-reverse-engineering>
